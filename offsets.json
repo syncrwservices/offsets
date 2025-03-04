@@ -13,7 +13,7 @@
         "gamestate": "0x190",
         "playerarray": "0x2C0",
         "playerstate": "0x2C8",
-        "lastsubmittime" : "0x160",
+        "lastsubmittime" : "0x158",
         "lastrendertime" : "0x32C",
         "velocity": "0x180",
         "bonearray": "0x5C8",
