@@ -30,7 +30,7 @@
     },
     "weaponoffsets": {
         "currentweapon": "0xa80",
-        "weapondata": "0x570",
+        "weapondata": "0x610",
         "ammocount": "0x10d4",
         "itemname": "0x40",
         "tier": "0x9B",
