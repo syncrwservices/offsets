@@ -6,6 +6,7 @@
         "NamePrivate": "0xc",
         "LocationPointer": "0x168",
         "RotationPointer": "0x178",
-        "BoundsScale": "0x31c"
+        "BoundsScale": "0x31c",
+        "BoneArrayCache": "0x5F8"
     }
 }
