@@ -4,8 +4,8 @@
         "PawnMaterials_ALL": "0x6170",
         "Levels": "0x1C0",
         "NamePrivate": "0xc",
-        "LocationPointer": "0x168",
-        "RotationPointer": "0x178",
+        "LocationPointer": "0x160",
+        "RotationPointer": "0x170",
         "BoundsScale": "0x32C",
         "BoneArrayCache": "0x5F8"
     }
